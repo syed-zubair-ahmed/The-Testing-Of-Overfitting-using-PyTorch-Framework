@@ -5,7 +5,7 @@
 
 This project explores overfitting behavior in deep neural networks using the Fashion-MNIST dataset. Multiple neural network architectures were implemented in PyTorch to observe how model complexity affects training loss and generalization.
 
-The goal of this experiment is to:
+_The goal of this experiment is to:
 
 * Understand how deeper networks can overfit
 * Compare shallow vs deep architectures
